@@ -25,7 +25,7 @@
     </tr>
     <tr>
       <td>Google Cloud</td>
-      <td>1 GB (amb crèdits gratuïts)</td>
+      <td>1 GB </td>
       <td>1 GB</td>
       <td>Subdomini</td>
       <td>Sí</td>
