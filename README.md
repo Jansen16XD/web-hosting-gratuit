@@ -1,4 +1,4 @@
-# Millors Webs Hosting Gratiuts
+# Millors Webs Hosting Gratuits
 <table border="1">
   <thead>
     <tr>
